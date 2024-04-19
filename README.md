@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou Vinicius, Desenvolvedor de Software Full Stack!</h1>
+<h1 align="center">Olá, eu sou Vinicius!</h1>
 
 - Trabalhando como Desenvolvedor de Software Full Stack **.Net e .Net Core**
 - Estudando **Entity, Electron**
