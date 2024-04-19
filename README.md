@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou Vinicius!</h1>
 
-- Trabalhando como **Desenvolvedor de software full stack .Net e .Net Core**
+- Trabalhando como **Desenvolvedor de software full stack .Net Framework**
 - Estudando **Entity, Electron**
 
 <h2 aling="left">Minhas Stacks:</h2>
