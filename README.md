@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Vinicius!</h1>
 
 - Trabalhando como **Desenvolvedor de software full stack .Net Framework**
-- Estudando **Entity, Electron**
+- Estudando **Entity**
 
 <h2 aling="left">Minhas Stacks:</h2>
 <h3 align="left">Linguagens:</h3>
@@ -15,8 +15,7 @@
 <h3 align="left">Frameworks:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-	<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 </p>
 <h3 align="left">Banco de Dados:</h3>
 <p align="left"> 
